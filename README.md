@@ -20,8 +20,5 @@ This experiment demonstrates the following:
 2. Open `index.html` in any web browser (Chrome, Firefox, Edge, etc.).
 3. You should see your personal profile page with your name, bio, skills, hobbies, and links.
 
-## Screenshot (Optional)
-![Profile Screenshot](profile.png)
-
 ## Submission
 This repository is submitted for **Frontend Development Experiment 1** as part of the course requirements.
